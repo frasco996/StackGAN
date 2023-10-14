@@ -1,10 +1,8 @@
 # StackGAN
 Authors: Fabio Fraschetti & Davide Ceriola  
 
-Datasets to be downloaded:
+Datasets and weights to be downloaded:
 
-CUB: http://www.vision.caltech.edu/datasets/cub_200_2011/ 
-
-Birds: https://drive.google.com/file/d/0B3y_msrWZaXLT1BZdVdycDY5TEE/view?resourcekey=0-sZrhftoEfdvHq6MweAeCjA
+https://drive.google.com/drive/folders/18ntC6ITa4mEYAz9d5wWm8PDIJRdB7A43
 
 
